@@ -1,1 +1,1 @@
-este archivo solo pertenece a la rama 2
+este archivo ahora pertenece a la rama main
